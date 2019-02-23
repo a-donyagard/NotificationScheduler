@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Notification Scheduler</string>
+    <string name="schedule_job_btn">Schedule Job</string>
+    <string name="cancel_jobs_btn">Cancel Jobs</string>
+    <string name="none_rdbtn">None</string>
+    <string name="any_rdbtn">Any</string>
+    <string name="wifi_rdbtn">Wifi</string>
+    <string name="network_type_required_lbl">Network Type Required:</string>
+    <string name="requires_lbl">Requires:</string>
+    <string name="device_idle_swch">Device Idle</string>
+    <string name="device_charging_swch">Device Charging</string>
+    <string name="override_deadline_lbl">Override Deadline:</string>
+    <string name="seekbar_progress_lbl">Not Set</string>
+</resources>
